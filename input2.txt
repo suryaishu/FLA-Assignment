@@ -1,0 +1,3 @@
+NFA Result:
+{'states': {'q3', 'q0', 'q1q2'}, 'alphabet': {'1', '0'}, 'transitions': {'q0': {'1': 'q3', '0': 'q1q2'}, 'q3': {'1': 'q3', '0': 'q3'}}, 'start_state': 'q0', 'accept_states': {'q3'}}
+Enter an input string: 1010110
